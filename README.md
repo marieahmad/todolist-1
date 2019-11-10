@@ -1,0 +1,1 @@
+memulai belajar membuat aplikasi dengan javascript

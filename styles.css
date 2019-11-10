@@ -1,0 +1,10 @@
+
+.img {
+    float: left;
+    right: 180px;
+    position: absolute;
+}
+.li{
+    font-size: 24px;
+    padding: 10px;
+}
